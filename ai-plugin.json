@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Italian Records Search",
+  "name_for_model": "italianRecords",
+  "description_for_human": "Search Italian genealogical records by surname, location, and year range.",
+  "description_for_model": "Plugin for searching Italian genealogical records hosted on antenati.cultura.gov.it.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://italian-records-search-1.janetschiller.repl.co/openapi.json"
+  },
+  "logo_url": "https://raw.githubusercontent.com/janetschiller-coder/ItalianRecordsSearch-1/main/logo.png",
+  "contact_email": "janet.schiller@gmail.com",
+  "legal_info_url": "https://github.com/janetschiller-coder/ItalianRecordsSearch-1/blob/main/privacy.md"
+}
