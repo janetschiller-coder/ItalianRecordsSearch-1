@@ -11,7 +11,7 @@
     "type": "openapi",
     "url": "https://italian-records-search-1.janetschiller.repl.co/openapi.json"
   },
-  "logo_url": "https://raw.githubusercontent.com/janetschiller-coder/ItalianRecordsSearch-1/main/logo.png",
+
   "contact_email": "janet.schiller@gmail.com",
   "legal_info_url": "https://github.com/janetschiller-coder/ItalianRecordsSearch-1/blob/main/privacy.md"
 }
